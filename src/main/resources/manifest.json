@@ -1,0 +1,19 @@
+{
+  "Group": "dev.nogue",
+  "Name": "PlayerMarker2",
+  "Version": "1.0.0",
+  "Description": "Control player markers settings for server",
+  "Authors": [
+    {
+      "Name": "Allex Nogue",
+      "Email": "allex@nogue.dev",
+      "Url": "https://nogue.dev/discord"
+    }
+  ],
+  "Website": "https://nogue.dev/discord",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "dev.nogue.PlayerMarker2"
+}
