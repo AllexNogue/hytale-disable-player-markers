@@ -1,0 +1,1 @@
+# hytale-disable-player-markers
