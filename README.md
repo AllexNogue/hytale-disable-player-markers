@@ -6,6 +6,11 @@ This plugin is designed for PvP, anarchy and hardcore servers, where exploration
 Only player markers are affected.
 All other map elements and markers remain untouched.
 
+## Screenshots
+
+![Players](screenshot_1.png)
+![Map visibility](screenshot_2.png)
+
 ## 🔮 Planned Features (Future Roadmap)
 
 This project is actively evolving. Planned features include:
